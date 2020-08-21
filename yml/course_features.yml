@@ -1,0 +1,309 @@
+01_turf_1000:
+  target: True
+  note:
+01_turf_1200:
+  target: True
+  note:
+01_turf_1500:
+  target: False
+  note:
+01_turf_1800:
+  target: False
+  note:
+01_turf_2000:
+  target: True
+  note:
+01_turf_2600:
+  target: True
+  note:
+01_dirt_1000:
+  target: True
+  note:
+01_dirt_1700:
+  target: True
+  note:
+01_dirt_2400:
+  target: True
+  note:
+02_turf_1000:
+  target: True
+  note:
+02_turf_1200:
+  target: True
+  note:
+02_turf_1800:
+  target: True
+  note:
+02_turf_2000:
+  target: True
+  note:
+02_turf_2600:
+  target: True
+  note:
+02_dirt_1000:
+  target: True
+  note:
+02_dirt_1700:
+  target: True
+  note:
+02_dirt_2400:
+  target: True
+  note:
+03_turf_1200:
+  target: True
+  note:
+03_turf_1800:
+  target: False
+  note:
+03_turf_2000:
+  target: True
+  note:
+03_turf_2600:
+  target: True
+  note:
+03_dirt_1150:
+  target: True
+  note:
+03_dirt_1700:
+  target: True
+  note:
+03_dirt_2400:
+  target: True
+  note:
+04_turf_1000:
+  target: True
+  note:
+04_turf_1200:
+  target: True
+  note:
+04_turf_1400:
+  target: True
+  note:
+04_turf_1600:
+  target: False
+  note:
+04_turf_1800:
+  target: False
+  note:
+04_turf_2000_in:
+  target: True
+  note:
+04_turf_2000_out:
+  target: False
+  note:
+04_turf_2200:
+  target: False
+  note:
+04_turf_2400:
+  target: False
+  note:
+04_dirt_1200:
+  target: True
+  note:
+04_dirt_1800:
+  target: True
+  note:
+05_turf_1400:
+  target: False
+  note:
+05_turf_1600:
+  target: False
+  note:
+05_turf_1800:
+  target: False
+  note:
+05_turf_2000:
+  target: False
+  note:
+05_turf_2300:
+  target: False
+  note:
+05_turf_2400:
+  target: False
+  note:
+05_turf_2500:
+  target: False
+  note:
+05_turf_3400:
+  target: False
+  note:
+05_dirt_1300:
+  target: True
+  note:
+05_dirt_1400:
+  target: True
+  note:
+05_dirt_1600:
+  target: True
+  note:
+05_dirt_2100:
+  target: True
+  note:
+05_dirt_2400:
+  target: True
+  note:
+06_turf_1200:
+  target: True
+  note:
+06_turf_1600:
+  target: False
+  note:
+06_turf_1800:
+  target: False
+  note:
+06_turf_2000:
+  target: False
+  note:
+06_turf_2200:
+  target: False
+  note:
+06_turf_2500:
+  target: False
+  note:
+06_turf_3600:
+  target: False
+  note:
+06_dirt_1200:
+  target: True
+  note:
+06_dirt_1800:
+  target: True
+  note:
+06_dirt_2400:
+  target: True
+  note:
+07_turf_1200:
+  target: True
+  note:
+07_turf_1400:
+  target: True
+  note:
+07_turf_1600:
+  target: False
+  note:
+07_turf_2000:
+  target: False
+  note:
+07_turf_2200:
+  target: False
+  note:
+07_dirt_1200:
+  target: True
+  note:
+07_dirt_1400:
+  target: True
+  note:
+07_dirt_1800:
+  target: True
+  note:
+07_dirt_1900:
+  target: True
+  note:
+08_turf_1200:
+  target: True
+  note:
+08_turf_1400_in:
+  target: False
+  note:
+08_turf_1400_out:
+  target: False
+  note:
+08_turf_1600_in:
+  target: False
+  note:
+08_turf_1600_out:
+  target: False
+  note:
+08_turf_1800:
+  target: False
+  note:
+08_turf_2000:
+  target: False
+  note:
+08_turf_2200:
+  target: False
+  note:
+08_turf_2400:
+  target: False
+  note:
+08_turf_3000:
+  target: False
+  note:
+08_turf_3200:
+  target: False
+  note:
+08_dirt_1200:
+  target: True
+  note:
+08_dirt_1400:
+  target: True
+  note:
+08_dirt_1800:
+  target: True
+  note:
+08_dirt_1900:
+  target: True
+  note:
+09_turf_1200:
+  target: True
+  note:
+09_turf_1400:
+  target: True
+  note:
+09_turf_1600:
+  target: False
+  note:
+09_turf_1800:
+  target: False
+  note:
+09_turf_2000:
+  target: False
+  note:
+09_turf_2200:
+  target: False
+  note:
+09_turf_2400:
+  target: False
+  note:
+09_turf_2600:
+  target: False
+  note:
+09_turf_3000:
+  target: False
+  note:
+09_dirt_1200:
+  target: True
+  note:
+09_dirt_1400:
+  target: True
+  note:
+09_dirt_1800:
+  target: True
+  note:
+09_dirt_2000:
+  target: True
+  note:
+10_turf_1200:
+  target: True
+  note:
+10_turf_1700:
+  target: False
+  note:
+10_turf_1800:
+  target: False
+  note:
+10_turf_2000:
+  target: False
+  note:
+10_turf_2600:
+  target: True
+  note:
+10_dirt_1000:
+  target: True
+  note:
+10_dirt_1700:
+  target: True
+  note:
+10_dirt_2400:
+  target: True
+  note:
